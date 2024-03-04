@@ -2,7 +2,7 @@
 
 Exercise 6 of the Programming Skills Challenge
 
-The present program consist in a Query instructions for obtain a determined data from a Data Base. The files contain the Data Base and the Query instructions.
+The present program consist in a Query instructions for obtain a determined data from a Data Base. The .sql file contains the Data Base and the Query instructions.
 
 The program uses coding standards. 
 
